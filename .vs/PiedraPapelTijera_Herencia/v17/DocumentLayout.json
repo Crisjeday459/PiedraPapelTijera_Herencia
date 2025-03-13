@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8926FE68-7674-4A06-83F2-220D051291EC}|PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia.vcxproj|C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8926FE68-7674-4A06-83F2-220D051291EC}|PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia.vcxproj|solutionrelative:PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8926FE68-7674-4A06-83F2-220D051291EC}|PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia.vcxproj|C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\Arbitro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8926FE68-7674-4A06-83F2-220D051291EC}|PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia.vcxproj|solutionrelative:PiedraPapelTijera_Herencia\\Arbitro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8926FE68-7674-4A06-83F2-220D051291EC}|PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia.vcxproj|C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\Visualizador.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8926FE68-7674-4A06-83F2-220D051291EC}|PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia.vcxproj|solutionrelative:PiedraPapelTijera_Herencia\\Visualizador.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8926FE68-7674-4A06-83F2-220D051291EC}|PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia.vcxproj|C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\Arbitro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8926FE68-7674-4A06-83F2-220D051291EC}|PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia.vcxproj|solutionrelative:PiedraPapelTijera_Herencia\\Arbitro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8926FE68-7674-4A06-83F2-220D051291EC}|PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia.vcxproj|C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\Visualizador.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8926FE68-7674-4A06-83F2-220D051291EC}|PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia.vcxproj|solutionrelative:PiedraPapelTijera_Herencia\\Visualizador.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8926FE68-7674-4A06-83F2-220D051291EC}|PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia.vcxproj|C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8926FE68-7674-4A06-83F2-220D051291EC}|PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia.vcxproj|solutionrelative:PiedraPapelTijera_Herencia\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8926FE68-7674-4A06-83F2-220D051291EC}|PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia.vcxproj|C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8926FE68-7674-4A06-83F2-220D051291EC}|PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia.vcxproj|solutionrelative:PiedraPapelTijera_Herencia\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8926FE68-7674-4A06-83F2-220D051291EC}|PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia.vcxproj|C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\PlayerPc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8926FE68-7674-4A06-83F2-220D051291EC}|PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia.vcxproj|solutionrelative:PiedraPapelTijera_Herencia\\PlayerPc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8926FE68-7674-4A06-83F2-220D051291EC}|PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia.vcxproj|C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\PlayerPc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8926FE68-7674-4A06-83F2-220D051291EC}|PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia.vcxproj|solutionrelative:PiedraPapelTijera_Herencia\\PlayerPc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerPc.cpp",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\PlayerPc.cpp",
+              "RelativeDocumentMoniker": "PiedraPapelTijera_Herencia\\PlayerPc.cpp",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\PlayerPc.cpp",
+              "RelativeToolTip": "PiedraPapelTijera_Herencia\\PlayerPc.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T12:23:10.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerPc.h",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\PlayerPc.h",
+              "RelativeDocumentMoniker": "PiedraPapelTijera_Herencia\\PlayerPc.h",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\PlayerPc.h",
+              "RelativeToolTip": "PiedraPapelTijera_Herencia\\PlayerPc.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-12T12:21:10.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\Player.cpp",
+              "RelativeDocumentMoniker": "PiedraPapelTijera_Herencia\\Player.cpp",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\Player.cpp",
+              "RelativeToolTip": "PiedraPapelTijera_Herencia\\Player.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T11:52:52.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\Player.h",
+              "RelativeDocumentMoniker": "PiedraPapelTijera_Herencia\\Player.h",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\Player.h",
+              "RelativeToolTip": "PiedraPapelTijera_Herencia\\Player.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-12T11:41:57.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PiedraPapelTijera_Herencia.cpp",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia.cpp",
+              "RelativeDocumentMoniker": "PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia.cpp",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia.cpp",
+              "RelativeToolTip": "PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T11:30:48.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Visualizador.h",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\Visualizador.h",
+              "RelativeDocumentMoniker": "PiedraPapelTijera_Herencia\\Visualizador.h",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\Visualizador.h",
+              "RelativeToolTip": "PiedraPapelTijera_Herencia\\Visualizador.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-12T13:43:39.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Visualizador.cpp",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\Visualizador.cpp",
+              "RelativeDocumentMoniker": "PiedraPapelTijera_Herencia\\Visualizador.cpp",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\Visualizador.cpp",
+              "RelativeToolTip": "PiedraPapelTijera_Herencia\\Visualizador.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T13:44:02.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Arbitro.h",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\Arbitro.h",
+              "RelativeDocumentMoniker": "PiedraPapelTijera_Herencia\\Arbitro.h",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\Arbitro.h",
+              "RelativeToolTip": "PiedraPapelTijera_Herencia\\Arbitro.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-12T12:51:08.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Arbitro.cpp",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\Arbitro.cpp",
+              "RelativeDocumentMoniker": "PiedraPapelTijera_Herencia\\Arbitro.cpp",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\CRIS\\SIS 457 - PROG_AVANZADA\\PiedraPapelTijera_Herencia\\PiedraPapelTijera_Herencia\\Arbitro.cpp",
+              "RelativeToolTip": "PiedraPapelTijera_Herencia\\Arbitro.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-12T12:51:57.107Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
